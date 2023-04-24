@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jo2801
-- 🌱 I’m currently learning: Java and C
-- 📫 You can reach me via [email](https://jdreifeld.de/email).
+👋 Hi, I’m @jo2801<br>
+🌱 I’m currently learning: Java and C<br>
+📫 You can reach me via [email](https://jdreifeld.de/email).<br>
 
 <!---
 jo2801/jo2801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
