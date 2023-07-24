@@ -1,5 +1,5 @@
 👋 Hi, I’m @jo2801<br>
-🌱 I’m currently learning: Java and C<br>
+🌱 I’m currently learning: Java, C and Vue<br>
 📫 You can reach me via [email](https://jdreifeld.de/email).<br>
 
 <!---
