@@ -1,7 +1,7 @@
 👋 Hi, I’m @[jo2801](https://github.com/jo2801)!<br>
 🌱 I’m currently learning: Java, C, Python and Vue.<br>
 🎢 As I mostly work on personal projects set to private you sadly won't find much here.<br>
-📫 You can reach me via [email](https://jdreifeld.de/kontakt).<br>
+📫 You can reach me via [email](https://jdreifeld.de/en/contact).<br>
 
 
 <!---
