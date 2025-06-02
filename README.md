@@ -1,5 +1,5 @@
 👋 Hi, I’m @[jo2801](https://github.com/jo2801)!<br>
-🌱 I’m currently working with: Go, Python, Vue/Nuxt and NextJS.<br>
+🌱 I’m currently working with: Go, Python, Vue/Nuxt, React and NestJS.<br>
 🎢 As I mostly work on personal projects set to private. So you won't find much here.<br>
 📫 You can reach me via [email](https://jdreifeld.de/en/contact).<br>
 
